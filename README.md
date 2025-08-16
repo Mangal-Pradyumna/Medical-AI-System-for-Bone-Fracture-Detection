@@ -62,13 +62,4 @@ After training, evaluate the model on the test set and use Grad-CAM visualizatio
 
 ## Project Structure
 - `download_dataset.py`: Script to download and prepare the Kaggle dataset.
-- `train.py` or notebook: Contains model training and evaluation code.
-- `model.py`: Defines the EfficientNet B4 based fracture classification model.
-- `utils/`: Various utility functions for data processing and visualization.
-
-## Contact
-For questions or collaboration, please contact [Your Email].
-
----
-
-*This project aims to provide a reliable, interpretable AI tool for bone fracture detection to assist radiologists and improve diagnostic efficiency.*
+- Notebook: Contains model training and evaluation code.
