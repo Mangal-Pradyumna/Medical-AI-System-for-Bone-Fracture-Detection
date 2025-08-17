@@ -1,5 +1,5 @@
 
-# Bone Fracture Detection using Deep Learning
+# Medical AI System for Bone Fracture Detection
 
 ## Project Overview
 This project implements an automated bone fracture detection and classification system using deep learning techniques. It leverages the EfficientNet B4 architecture along with attention mechanisms and Class Activation Mapping (CAM) for explainability. The system achieves high accuracy (~98%) on X-ray images of bone fractures.
