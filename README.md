@@ -42,21 +42,14 @@ python download_dataset.py
 
 This will download, unzip, and organize the dataset into the project directory.
 
-### 3. Install Python Dependencies
-
-Use the following command to install required libraries:
-
-```bash
-pip install -r requirements.txt
-```
 
 (or install libraries individually: `torch`, `torchvision`, `numpy`, `matplotlib`, `scikit-learn`, `opencv-python`, `seaborn`)
 
-### 4. Train the Model
+### 3. Train the Model
 
 Run the training script/notebook to train the model on the dataset. Hyperparameters such as batch size, learning rate, and epochs are configured within the code.
 
-### 5. Evaluate and Visualize
+### 4. Evaluate and Visualize
 
 After training, evaluate the model on the test set and use Grad-CAM visualizations to interpret model decisions.
 
